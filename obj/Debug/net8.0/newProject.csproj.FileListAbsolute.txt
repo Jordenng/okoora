@@ -1,0 +1,17 @@
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.csproj.AssemblyReference.cache
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.AssemblyInfoInputs.cache
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.AssemblyInfo.cs
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\newProject\bin\Debug\net8.0\newProject.exe
+C:\Users\Yarden\newProject\bin\Debug\net8.0\newProject.deps.json
+C:\Users\Yarden\newProject\bin\Debug\net8.0\newProject.runtimeconfig.json
+C:\Users\Yarden\newProject\bin\Debug\net8.0\newProject.dll
+C:\Users\Yarden\newProject\bin\Debug\net8.0\newProject.pdb
+C:\Users\Yarden\newProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.csproj.Up2Date
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.dll
+C:\Users\Yarden\newProject\obj\Debug\net8.0\refint\newProject.dll
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.pdb
+C:\Users\Yarden\newProject\obj\Debug\net8.0\newProject.genruntimeconfig.cache
+C:\Users\Yarden\newProject\obj\Debug\net8.0\ref\newProject.dll
